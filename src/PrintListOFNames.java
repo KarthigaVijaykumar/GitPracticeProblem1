@@ -6,10 +6,5 @@ public class PrintListOFNames {
 		for(String name : names) {
 			System.out.println(name);
 		}
-		String fruits [] = {"apple","mango","pineapple","lemon"};
-		System.out.println("printing list of fruits");
-		for(String fruit : fruits) {
-			System.out.println(fruit);
-		}
 	}
 }
